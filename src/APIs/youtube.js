@@ -8,6 +8,7 @@ params: {
     part: "snippet",
     type: "video",
     maxResults: 5,
+    regionCode: "GB",
     key: KEY
 }
 });
